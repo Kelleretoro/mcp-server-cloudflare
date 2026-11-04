@@ -14,7 +14,7 @@
 		"@cloudflare/workers-oauth-provider": "catalog:",
 		"@fast-csv/format": "5.0.2",
 		"@hono/zod-validator": "0.4.3",
-		"@modelcontextprotocol/server": "catalog:",
+		"@modelcontextprotocol/server": "2.3.0",
 		"@repo/mcp-observability": "workspace:*",
 		"agents": "catalog:",
 		"cloudflare": "4.2.0",
